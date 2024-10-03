@@ -1,6 +1,36 @@
-# 👋 sandcastle here
-- backend dev, specializes in python
-- minecraft's my favorite game
+<h1 align="center">hey there 👋</h1>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=sandcastle3)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandcastle3)](https://github.com/anuraghazra/github-readme-stats)
+###
+
+<h3 align="left">👩‍💻 About Me</h3>
+
+###
+
+<p align="left">I'm Sandcastle from Canada<br><br>- 🔭 I’m working on clickerclicker<br>- 📚 I'm currently learning JavaScript<br>- ⚡ In my free time I play Minecraft</p>
+
+###
+
+<h3 align="left">🛠 Languages and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥 My Stats</h3>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sandcastle3&theme=slateorange&show_icons=true&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandcastle3&theme=slateorange&show_icons=true&hide_border=true&layout=compact" height="150" />
+</div>
+
+###
