@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Sandcastle from Canada<br><br>- 🔭 I’m working on clickerclicker<br>- 📚 I'm currently learning JavaScript<br>- ⚡ In my free time I play Minecraft</p>
+<p align="left">i brad :D<br><br>- 🔭 I’m working on clickerclicker<br>- 📚 I'm currently learning JavaScript<br>- ⚡ In my free time I play Minecraft</p>
 
 ###
 
