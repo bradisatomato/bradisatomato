@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">i brad :D<br><br>- 🔭 I’m working on clickerclicker<br>- 📚 I'm currently learning JavaScript<br>- ⚡ In my free time I play Minecraft</p>
+<p align="left">i am brad and uhh i am a tomato<br><br>- 🔭 I’m working on nothing 😱<br>- 📚 I'm currently learning JavaScript<br>- ⚡ In my free time I play Minecraft</p>
 
 ###
 
@@ -29,8 +29,8 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandcastle3&theme=slateorange&show_icons=true&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandcastle3&theme=slateorange&show_icons=true&hide_border=true&layout=compact" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bradisatomato&theme=slateorange&show_icons=true&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bradisatomato&theme=slateorange&show_icons=true&hide_border=true&layout=compact" height="150" />
 </div>
 
 ###
