@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">i am brad and uhh i am a tomato<br><br>- 🔭 I’m working on nothing 😱<br>- 📚 I'm currently learning JavaScript<br>- ⚡ In my free time I play Minecraft</p>
+<p align="left">i am brad and uhh i am a tomato<br><br>- 🔭 I’m working on <a href="https://bradisatomato.github.io" target="_blank">my website</a> 🕸<br>- 📚 I'm currently learning JavaScript ☕<br>- ⚡ In my free time I do homework 😭</p>
 
 ###
 
