@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">i am brad and uhh i am a tomato<br><br>- 🔭 I’m working on my Minecraft mod <a href="https://github.com/bradisatomato/hamterhavoc" target="_blank">Hamter Havoc</a> 🌳<br>- 📚 I'm currently learning JavaScript ☕<br>- ⚡ In my free time I do homework 😭</p>
+<p align="left">bred 👍</p>
 
 ###
 
